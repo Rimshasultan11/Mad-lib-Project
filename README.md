@@ -18,4 +18,4 @@ Get ready to laugh and share your personalized stories with friends and family! 
 
 ## 🚀 Demo
 
-Check out the live demo here:
+Check out the live demo here:[https://mad-lib-project-rimshasultan.streamlit.app/]
